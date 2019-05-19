@@ -1,0 +1,2 @@
+# DL_on_Categorical_Var_Classification
+Applying Deep Learning on categorical variable classification
